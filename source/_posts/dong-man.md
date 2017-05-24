@@ -25,7 +25,9 @@ tags: [动漫]
 
 
 ## <span id="k">1.K(King)</span>
-{% asset_img k.jpg K %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/k.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
@@ -42,7 +44,8 @@ tags: [动漫]
 |第七王权者·无色之王|被视为“鬼牌”般左右平衡的角色，每一任的能力都不相同，特性“变幻无常”|
 
 ## <span id="lieren">2.全职猎人</span>
-{% asset_img quanzhi.jpg 全职猎人 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/quanzhi.jpg" width="80%" height="60%">
 
 ### 故事简介
 
@@ -50,14 +53,19 @@ tags: [动漫]
 
 
 ## <span id="juren">3.进击的巨人</span>
-{% asset_img juren.jpg 进击的巨人 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/juren.jpg" width="80%" height="80%">
+
+
 ### 故事简介
 
  一个巨人吃人，人绝地反击的故事。当然巨人的出现是因为什么呢？这是个需要你自己发现的谜题。
 
 
 ## <span id="gang">4.钢之炼金术师</span>
-{% asset_img gang.jpg 钢之炼金术师 %}
+<img src="http://oqdxnp2lc.bkt.clouddn.com/gang.jpg" width="80%" height="80%">
+
+
 ### 故事简介
 
  为了复活母亲，进行了炼金术中最大的禁忌——人体炼成。然后围绕这个禁忌展开了故事。
@@ -66,14 +74,18 @@ tags: [动漫]
 
 
 ## <span id="ssg">5.东京食尸鬼</span>
-{% asset_img ssg.jpeg 东京食尸鬼 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/ssg.jpeg" width="80%" height="80%">
+
 
 ### 故事简介
  故事以架空世界的现代东京为背景，描述以人肉为主食，被称为喰种（Ghoul）之人型怪物。
 
 
 ## <span id="yaren">6.亚人</span>
-{% asset_img yaren.jpg 亚人 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/yaren.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
@@ -81,7 +93,9 @@ tags: [动漫]
 
 
 ## <span id="yiquan">7.一拳超人</span>
-{% asset_img yiquan.jpg 一拳超人 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/yiquan.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
@@ -89,7 +103,9 @@ tags: [动漫]
 
 
 ## <span id="jinshu">8.魔法禁书目录</span>
-{% asset_img jinshu.jpg 魔法禁书目录 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/jinshu.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
@@ -97,26 +113,34 @@ tags: [动漫]
 
 
 ## <span id="junhuo">9.军火女王</span>
-{% asset_img junhuo.jpg 军火女王 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/junhuo.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
  该作以军火商人的独特视角描述了一名少年佣兵在一名年轻女性所领导的军火贩卖集团中的日常生活、和他的所见所闻。另外，展现了许多真实存在的武器资料，有时会加入现实世界的国际关系，是它的特色之一。
 
 ## <span id="gangsta">10.GANGSTA匪徒</span>
-{% asset_img gangsta.jpeg GANGSTA匪徒 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/gangsta.jpeg" width="80%" height="80%">
+
 
 黑街、谜般的药剂、拥有特异能力的人种──「黄昏种」…种种匪夷所思的要素交织而成的黑帮奇幻剧场
 
 ## <span id="daojian">11.刀剑神域</span>
-{% asset_img daojian.jpg 刀剑神域 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/daojian.jpg" width="80%" height="80%">
+
 
 ### 故事简介
 
  腹黑游戏设计者，人为制造进入游戏不能登出的设定。然后主人公们就可以没羞没臊的整天玩游戏，营救公主的故事。
 
 ## <span id="jlddpx">12.记录的地平线</span>
-{% asset_img jlddpx.jpeg 记录的地平线 %}
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/jlddpx.jpeg" width="80%" height="80%">
+
 
  又一个因为黑心游戏开发商引起的故事；老牌网络游戏“幻境神话”引入第十二次资料片改版“开拓智域”后，日本有三万名用户被锁在游戏当中。现实与游戏奇妙融合的世界中，男主角城惠在秋叶原街的舞台上展开了战斗。
 

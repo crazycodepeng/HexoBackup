@@ -16,37 +16,38 @@ tags: [Android,Adb]
 
 ### 2.当连接设备多个时怎么安装apk呢
 
-#### 第一步
-``` bash
-$ adb devices
-```
-#### 第二步
-``` bash
-$ adb -s emulator-5553 install app.apk
-```
-#### 如下图
+1. 第一步
+ ``` bash
+ $ adb devices
+ ```
+2. 第二步
+ ``` bash
+ $ adb -s emulator-5553 install app.apk
+ ```
+
+如下图
 
 {% asset_img adbinstall.png 安装apk %}
 
 ---
 ### 3.获取自由模式-前提是手机有root权限
 
-#### 第一步
-``` bash
+1. 第一步
+ ``` bash
 $ adb shell
 ```
-#### 第二步 获得root操作权限
-``` bash
-# su
-```
+2. 第二步 获得root操作权限
+ ``` bash
+ $ su
+ ```
 
-#### 第三步
-``` bash
-# settings put global enable_freeform_support 1
-```
-#### 重启模拟器或设备
-``` bash
-# reboot
-```
+3. 第三步
+ ``` bash
+ $ settings put global enable_freeform_support 1
+ ```
+4. 重启模拟器或设备
+ ``` bash
+ $ reboot
+ ```
 ---
 

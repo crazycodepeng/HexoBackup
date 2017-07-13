@@ -22,7 +22,19 @@ tags: [动漫]
 | [10.GANGSTA匪徒](#gangsta)       |   コースケ    |
 | [11.刀剑神域](#daojian)       |   川原砾    |
 | [12.记录的地平线](#jlddpx)       |   橙乃真希    |
+| [13.博人传-火影次世代](#frz)       |   岸本齐史    |
+| [14.命运石之门](#myszm)       |   志仓千代丸    |
 
+##  国产动漫
+
+> 最近看了些国产动漫，感觉我的认知被刷新了,不说能和日美一样，整体还是不错的。
+
+| 动漫名字       | 作者   |
+| --------  |  -----: |
+| [1.秦时明月](#qsmy)      | 温世仁 |
+| [2.画江湖系列](#hjhxl)        |   刘阔，关心  |
+| [3.镇魂街](#zhj)        |   许辰  |
+| [4.狐妖小红娘](#yhxhn)        |   庹小新  |
 
 ## <span id="k">1.K(King)</span>
 
@@ -141,6 +153,72 @@ tags: [动漫]
 
 <img src="http://oqdxnp2lc.bkt.clouddn.com/jlddpx.jpeg" width="80%" height="80%">
 
+### 故事简介
 
  又一个因为黑心游戏开发商引起的故事；老牌网络游戏“幻境神话”引入第十二次资料片改版“开拓智域”后，日本有三万名用户被锁在游戏当中。现实与游戏奇妙融合的世界中，男主角城惠在秋叶原街的舞台上展开了战斗。
 
+## <span id="frz">13.博人传</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/20170712120857210.jpg" width="80%" height="80%">
+
+### 故事简介
+
+ 可以说是你看的 火影忍者 + 现代化 = 博人转，目前连载中
+
+## <span id="myszm">14.命运石之门</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/mingyunshi.jpg" width="80%" height="80%">
+
+### 故事简介
+
+ 这个番。。。只能强调一句话，<a color="red">坚持看到13集！坚持看到13集！坚持看到13集！</a>
+ 椎名真由理 的嘟嘟噜，是作者前期留下多虐心的伏笔。
+ 这是一个用12集做铺垫，然后开始虐心的，剧透下，结局是好的。
+ 这个番堪称神作。
+
+----
+ > 国漫
+
+## <span id="qsmy">1.秦时明月</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/qsmy.jpg" width="80%" height="80%">
+
+### 故事简介
+
+ 个人感觉前几部故事可以给满分(因为中国元素)，画面不是很Nice，后几部剧情略显拖拉，而且因为手游乱七八糟的东西，更新的很慢，月更。。。
+ 整体来说，这算是我第一个看着还算可以的国漫了。
+
+ # <span id="qsmy">2.画江湖系列</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/buliangren.jpeg" width="80%" height="80%">
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/langlixiang.jpg" width="80%" height="80%">
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/bingyuan.jpg" width="80%" height="80%">
+
+### 故事简介
+
+ > 画江湖有  不良人、灵主、杯莫停，和未开始的转世门生
+ 1. 不良人
+    - 以五代十国为背景开展的，当然了和女帝相比，我还是喜欢倾国倾城这对姐妹花。
+ 2. 灵主
+    - 故事还是有点悬念的，但是整体感觉不佳   相比郎里香还是喜欢游龙戏凤多一点。
+ 3. 杯莫停
+    - 一个堪比柯南的佳作，每集都得死几个，整体的技能和剧情设计都不错。
+
+## <span id="zhj">3.镇魂街</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/zhenhunjie.png" width="80%" height="80%">
+
+### 故事简介
+
+ 感觉这部作品，就女主槽点多一点，是一个不错的热血番，而且悬念也不少，挺值得看的。
+
+
+## <span id="yhxhn">4.妖狐小红娘</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/yanghuxiaohongniang.jpeg" width="80%" height="80%">
+
+### 故事简介
+
+ 蠢萌欢乐，看名字确实有点偏女性的番，可是如果一看，就根本停不下来。。。一口气几十集的节奏。

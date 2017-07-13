@@ -1,11 +1,7 @@
 layout: multiwindow
 title: Android多窗口支持
 date: 2017-05-11 20:15:35
-tags:
-- Google
-- Android7.0
-- 多窗口支持
-
+tags: [Google,Android7,多窗口支持]
 ---
 
 

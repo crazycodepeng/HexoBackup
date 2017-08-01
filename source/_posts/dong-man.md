@@ -8,33 +8,35 @@ tags: [动漫]
 # 看过并推荐的动漫
 ### 排名不分先后
 
-| 动漫名字       | 作者   |
-| --------  | -----:  |
-| [1.K](#k)      | GoRA×GoHands |
-| [2.全职猎人](#lieren)        |   富坚义博  |
-| [3.进击的巨人](#juren)       |   谏山创    |
-| [4.钢之炼金术师](#gang)       |   荒川弘    |
-| [5.东京食尸鬼](#ssg)       |   石田スイ    |
-| [6.亚人](#yaren)       |   樱井画门    |
-| [7.一拳超人](#yiquan)       |   ONE(原作),村田雄介(重绘)|
-| [8.魔法禁书目录](#jinshu)       |   镰池和马    |
-| [9.军火女王](#junhuo)       |   高桥庆太郎    |
-| [10.GANGSTA匪徒](#gangsta)       |   コースケ    |
-| [11.刀剑神域](#daojian)       |   川原砾    |
-| [12.记录的地平线](#jlddpx)       |   橙乃真希    |
-| [13.博人传-火影次世代](#frz)       |   岸本齐史    |
-| [14.命运石之门](#myszm)       |   志仓千代丸    |
+| 动漫名字       | 作者   |传送门|
+| --------  |           | -----:  |
+| [1.K](#k)      | GoRA×GoHands |<a href="http://bangumi.bilibili.com/anime/685/">B站传送门</a>|
+| [2.全职猎人](#lieren)        |   富坚义博  |<a href="http://bangumi.bilibili.com/anime/877/">B站传送门</a>|
+| [3.进击的巨人](#juren)       |   谏山创    |资源待整理|
+| [4.钢之炼金术师](#gang)       |   荒川弘    |<a href="http://bangumi.bilibili.com/anime/1088/">B站传送门</a>|
+| [5.东京食尸鬼](#ssg)       |   石田スイ    |资源待整理|
+| [6.亚人](#yaren)       |   樱井画门    |<a href="http://bangumi.bilibili.com/anime/3105/">B站传送门</a>|
+| [7.一拳超人](#yiquan)       |   ONE(原作),村田雄介(重绘)| 资源待整理|
+| [8.魔法禁书目录](#jinshu)       |   镰池和马    |<a href="http://bangumi.bilibili.com/anime/963/">B站传送门</a>|
+| [9.军火女王](#junhuo)       |   高桥庆太郎    |<a href="http://bangumi.bilibili.com/anime/1684/">B站传送门</a>|
+| [10.GANGSTA匪徒](#gangsta)       |   コースケ    |<a href="http://bangumi.bilibili.com/anime/2601/">B站传送门</a>|
+| [11.刀剑神域](#daojian)       |   川原砾    | 资源待整理|
+| [12.记录的地平线](#jlddpx)       |   橙乃真希    |<a href="http://bangumi.bilibili.com/anime/289/">B站传送门</a>|
+| [13.博人传-火影次世代](#frz)       |   岸本齐史    |<a href="http://bangumi.bilibili.com/anime/5978/">B站传送门</a>|
+| [14.命运石之门](#myszm)       |   志仓千代丸    |<a href="http://bangumi.bilibili.com/anime/836/">B站传送门</a>|
+| [15.从零开始的魔法书](#clksdmfs)       |   虎走翔（虎走かける） |<a href="http://bangumi.bilibili.com/anime/6001/">B站传送门</a>|
+| [16.夏目友人帐](#xmyrz)       |   绿川幸    |<a href="http://bangumi.bilibili.com/anime/1660/">B站传送门</a>|
 
 ##  国产动漫
 
 > 最近看了些国产动漫，感觉我的认知被刷新了,不说能和日美一样，整体还是不错的。
 
-| 动漫名字       | 作者   |
-| --------  |  -----: |
-| [1.秦时明月](#qsmy)      | 温世仁 |
-| [2.画江湖系列](#hjhxl)        |   刘阔，关心  |
-| [3.镇魂街](#zhj)        |   许辰  |
-| [4.狐妖小红娘](#yhxhn)        |   庹小新  |
+| 动漫名字       | 作者   |传送门|
+| --------  | | -----: |
+| [1.秦时明月](#qsmy)      | 温世仁 |<a href="http://list.youku.com/show/id_z7eb14fd209ee11e1a046.html">优酷传送门</a>|
+| [2.画江湖系列](#hjhxl)        |   刘阔，关心  |<a href="http://bangumi.bilibili.com/anime/3023/">不良人</a> <a href="http://bangumi.bilibili.com/anime/3022/">灵主</a> <a href="http://bangumi.bilibili.com/anime/5748/">杯莫停</a>|
+| [3.镇魂街](#zhj)        |   许辰  |<a href="http://bangumi.bilibili.com/anime/3863/">B站传送门</a>|
+| [4.狐妖小红娘](#yhxhn)        |   庹小新  |<a href="http://bangumi.bilibili.com/anime/2543/">B站传送门</a>|
 
 ## <span id="k">1.K(King)</span>
 
@@ -54,6 +56,8 @@ tags: [动漫]
 |第五王权者·绿之王|司掌“变革”|
 |第六王权者·灰之王|司掌“守护”|
 |第七王权者·无色之王|被视为“鬼牌”般左右平衡的角色，每一任的能力都不相同，特性“变幻无常”|
+
+
 
 ## <span id="lieren">2.全职猎人</span>
 
@@ -175,6 +179,28 @@ tags: [动漫]
  椎名真由理 的嘟嘟噜，是作者前期留下多虐心的伏笔。
  这是一个用12集做铺垫，然后开始虐心的，剧透下，结局是好的。
  这个番堪称神作。
+
+## <span id="clksdmfs">15.从零开始的魔法书</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/chonglingkaishide.jpg" width="80%" height="80%">
+
+### 故事简介
+
+ 美女与野兽的CP，算是半个治愈系
+ > “想变回人类吗？那么佣兵，成为吾辈的护卫吧。”
+
+## <span id="xmyrz">16.夏目友人帐</span>
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/xiamuyourenzheng.jpg" width="80%" height="80%">
+
+<img src="http://oqdxnp2lc.bkt.clouddn.com/maomi.gif" width="50%" height="50%">
+
+### 故事简介
+
+ 治愈系的番
+ 斑/猫咪老师 猫形态蠢萌蠢萌的，看这个番也是因为有一次看到，他被绑起来在墙角挣扎的gif
+
+
 
 ----
  > 国漫
